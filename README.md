@@ -17,7 +17,7 @@ The case study demonstrates how functional testing and usability evaluation can 
 The application used in this case study is a web-based Snake and Ladder game developed as an academic project.
 
 <p align="center">
-  <img src="assets/snake.png" alt="Snake and Ladder Web-based Game">
+  <img src="assets/Snake.png" alt="Snake and Ladder Web-based Game">
 </p>
 
 ### Testing Scope

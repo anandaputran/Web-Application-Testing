@@ -17,7 +17,7 @@ Studi kasus ini menunjukkan bagaimana functional testing dan usability evaluatio
 Aplikasi yang digunakan dalam studi kasus ini adalah permainan ular tangga berbasis web yang dikembangkan sebagai project akademik.
 
 <p align="center">
-  <img src="assets/snake.png" alt="Permainan Ular Tangga Berbasis Web">
+  <img src="assets/Snake.png" alt="Permainan Ular Tangga Berbasis Web">
 </p>
 
 ### Ruang Lingkup Pengujian
